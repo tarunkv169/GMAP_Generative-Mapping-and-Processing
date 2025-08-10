@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+langchain>=0.0.300
+google-genai
+langchain-google-genai
+chromadb
+pydantic
+youtube-transcript-api
+PyPDF2
+python-docx
+tqdm
+requests
