@@ -1,0 +1,27 @@
+.mindmap-container {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mindmap-node {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #f0f4f8;
+  border: 1px solid #dcdfe4;
+  text-align: center;
+}
+
+.node-content {
+  font-weight: bold;
+}
+
+.node-children {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 10px;
+}

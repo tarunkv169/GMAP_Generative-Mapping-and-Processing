@@ -1,0 +1,50 @@
+# langchain core
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain_chroma
+
+
+#------------closed source model-------------
+# open ai integration
+langchain-openai
+openai
+
+# anthropic
+langchain-anthropic
+
+# google gemini integration
+langchain-google-genai
+google-generativeai
+#--------------------------------------------
+
+#-------------open source model--------------
+# hugging face integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+#---------------------------------------------
+
+# environment variable management
+python-dotenv
+
+# Ml 
+numpy
+scikit-learn
+pydantic
+pypdf
+beautifulsoup4
+
+#vector store
+chromadb
+wikipedia
+
+#project
+fastapi
+uvicorn
+python-multipart
+youtube-transcript-api
+docx2txt
+
